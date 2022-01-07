@@ -2,6 +2,7 @@ import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 import {NgbModule} from '@ng-bootstrap/ng-bootstrap';
 
+// Comment added to test git check-in
 
 import { HttpClientModule } from "@angular/common/http";
 
